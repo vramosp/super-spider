@@ -235,7 +235,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - title: lorem-ipsum
+  - title: This is my form
     subtitle: lorem-ipsum
     title_align: left
     content: >-
