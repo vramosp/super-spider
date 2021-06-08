@@ -249,7 +249,7 @@ sections:
       - input_type: text
         name: email
         label: email
-        default_value: lorem-ipsum
+        default_value: email@domain.com
         options: []
         is_required: false
         type: form_field
