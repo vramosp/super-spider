@@ -236,7 +236,6 @@ sections:
     align: center
     background_color: none
   - title: Subscribe
-    subtitle: lorem-ipsum
     title_align: left
     content_align: left
     form_position: bottom
