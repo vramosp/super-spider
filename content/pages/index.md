@@ -247,7 +247,7 @@ sections:
     form_action: Submit form
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: email
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
