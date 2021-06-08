@@ -235,7 +235,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - title: This is my form
+  - title: Subscribe
     subtitle: lorem-ipsum
     title_align: left
     content_align: left
