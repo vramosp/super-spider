@@ -238,8 +238,6 @@ sections:
   - title: This is my form
     subtitle: lorem-ipsum
     title_align: left
-    content: |
-      *
     content_align: left
     form_position: bottom
     form_width: fifty
